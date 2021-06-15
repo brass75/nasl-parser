@@ -6,3 +6,4 @@ nasl_parser.egg-info/
 .DS_Store
 build/
 *.egg-info/
+venv/
